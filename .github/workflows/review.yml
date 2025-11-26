@@ -1,7 +1,7 @@
 name: PR Agent for NUWM
  
 on:
-  pull_request:
+  pull_request: 
     types: [ opened, reopened, synchronize, edited ] 
  
 jobs:
