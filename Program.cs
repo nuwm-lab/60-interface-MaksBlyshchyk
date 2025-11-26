@@ -51,7 +51,7 @@ namespace MathFunctions
 
         // Overloading SetCoefficients to accept 6 values
         public void SetCoefficients(double a2, double a1, double a0, double b2, double b1, double b0)
-        {
+        { 
             this.a2 = a2;
             this.b2 = b2;
             // Use the base class method to set the linear parts
