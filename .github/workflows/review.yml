@@ -1,6 +1,6 @@
 name: PR Agent for NUWM
  
-on:
+on: 
   pull_request: 
     types: [ opened, reopened, synchronize, edited ] 
  
