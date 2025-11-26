@@ -4,7 +4,7 @@ on:
   pull_request: 
     types: [ opened, reopened, synchronize, edited ]  
   
-jobs: 
+jobs:  
 
   pr_agent_job:
     runs-on: ubuntu-latest
